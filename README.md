@@ -1,6 +1,6 @@
 ### Eunsoo Kang _ @eunsour
 
-😃 Hi!  Welcome to my Github profile!
+😃 Hi! I'm Eunsoo Kang. Welcome to my Github.
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunsour)](https://github.com/eunsour)
