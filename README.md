@@ -18,9 +18,3 @@
   <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="mongoDB" src="https://img.shields.io/badge/mongoDB-47A248?stylee=flat-square&logo=MongoDB&logoColor=white">
 </p>
-
-<br>
-<table><tr><td align="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=eunsour&theme=graywhite&show_icons=true&hide_border=true" align="left" style="width: 100%" />
-</td><td align="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunsour&layout=compact&hide_border=true" align="left" style="width: 100%" /></td></tr></table>
