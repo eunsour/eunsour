@@ -3,7 +3,6 @@
 😃 Hi! I'm Eunsoo Kang. Welcome to my Github.
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunsour)](https://github.com/eunsour)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woo569628@gmail.com)](mailto:woo569628@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/95kes/)](https://www.facebook.com/95kes/)
 
